@@ -1,0 +1,16 @@
+div{
+    width: 210px;
+    height: 210px;
+    background-color:rgb(228, 66, 37);
+    margin: 100px;
+    transition: width 5s;
+    transition-delay: 1s;
+}
+div:hover{
+    width: 420px;
+    height: 250px; 
+    background-color: rgb(214, 30, 131);
+         }
+ #div1{
+             transition-timing-function: ease-out;
+         }
